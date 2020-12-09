@@ -18,7 +18,7 @@ a {
     text-decoration: none;
 }
 
-/* Classes */
+/* Header */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -78,6 +78,7 @@ a {
     margin-left: 20px;
 }
 
+/* Benefits*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -89,7 +90,6 @@ a {
     background-color: #2589bd;
 }
 
-/* Benefit Section */
 .benefit-lead, .benefit-brand, .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
